@@ -6,8 +6,8 @@ PhD in Electronics and System Architecture, currently doing applied research at 
 This profile is where the smaller experiments and side projects live; the bigger picture is at [merwan.birem](https://merwanski.github.io/merwan.birem/) website (work in progress).
 
 #### 🔭 Currently building
-- **[merwan.birem](https://merwanski.github.io/merwan.birem/)**! my personal site: an Astro + GitHub Actions pipeline that turns a dropped PDF or a folder of trip photos into a fully written, geotagged page, no manual formatting required.
-- A few things still marked `TODO` ! some honesty felt appropriate here.
+- **[merwan.birem](https://merwanski.github.io/merwan.birem/)** ⚡ my personal site: an Astro + GitHub Actions pipeline that turns a dropped PDF or a folder of trip photos into a fully written, geotagged page, no manual formatting required.
+- A few things still marked `TODO` 😄 some honesty felt appropriate here.
 
 #### 🧰 How I work
 - Prefer systems over one-offs: if I do something twice, it becomes a script.
@@ -25,7 +25,7 @@ This profile is where the smaller experiments and side projects live; the bigger
 >
 > "Progress, not perfection! ship the version that works, refine the one that lasts."
 
-<sub>Most of what's public here is a fraction of what's in progress —> the rest is still cooking.</sub>
+<sub>Most of what's public here is a fraction of what's in progress —> the rest is still cooking 🤔.</sub>
 
 <!--
 **Merwanski/merwanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
