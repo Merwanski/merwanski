@@ -11,7 +11,7 @@ This profile is where the smaller experiments and side projects live; the bigger
 
 #### 🧰 How I work
 - Prefer systems over one-offs: if I do something twice, it becomes a script.
-- Comfortable across the research-to-production line — from writing up findings to shipping the pipeline that publishes them.
+- Comfortable across the research-to-production line —> from writing up findings to shipping the pipeline that publishes them.
 - Big-picture first, details second, automation whenever it pays for itself.
 
 #### 📬 Get in touch
@@ -21,11 +21,11 @@ This profile is where the smaller experiments and side projects live; the bigger
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "First, solve the problem. Then, write the code."  John Johnson
 >
-> "Progress, not perfection — ship the version that works, refine the one that lasts."
+> "Progress, not perfection! ship the version that works, refine the one that lasts."
 
-<sub>Most of what's public here is a fraction of what's in progress — the rest is still cooking.</sub>
+<sub>Most of what's public here is a fraction of what's in progress —> the rest is still cooking.</sub>
 
 <!--
 **Merwanski/merwanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
